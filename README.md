@@ -2,7 +2,7 @@
 
 - 👩🏽‍🎓 Cursando Engenharia da Computação
 - 🌱 Estudando PowerBI e SQL
-- 📓 Iniciante em Phyton e Javascript
+- 📓 Iniciante em Phyton
 
 <div align="center">
   <a href="https://github.com/barbaraciocca">
