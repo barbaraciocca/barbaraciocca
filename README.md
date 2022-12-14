@@ -1,7 +1,6 @@
 ## Olá, eu sou a Bárbara Ciocca!
 
 - 👩🏽‍🎓 Cursando Engenharia da Computação
-- 🌱 Estudando PowerBI e SQL
 - 📓 Iniciante em Phyton
 
 <div align="center">
