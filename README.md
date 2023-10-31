@@ -1,7 +1,7 @@
 ## Olá, eu sou a Bárbara Ciocca!
 
 - 👩🏽‍🎓 Cursando Engenharia da Computação
-- 📓 Iniciante em Phyton
+- 📓 Phyton | GCP | SQL
 
 <div align="center">
   <a href="https://github.com/barbaraciocca">
