@@ -8,7 +8,7 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraciocca&layout=compact&langs_count=7&theme=panda"/>
 </div>
 
-\n
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/barbaraciocca/barbaraciocca/output/pacman-contribution-graph-dark.svg">
