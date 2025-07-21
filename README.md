@@ -1,7 +1,7 @@
 ## Olá, eu sou a Bárbara Ciocca!
 
 - 👩🏽‍🎓 Cursando Engenharia da Computação
-- 📓 Phyton | PySpark
+- 📓 Python | PySpark
 
 <div align="center">
   <a href="https://github.com/barbaraciocca">
